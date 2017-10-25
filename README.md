@@ -2,7 +2,6 @@
 
 1. Ensure you have `npm` installed.
 
-Follow the instructions for your platform [here](https://github.com/npm/npm).
 
 2. Install all dependencies:
 
@@ -10,9 +9,11 @@ Follow the instructions for your platform [here](https://github.com/npm/npm).
 npm install
 ````
 
-3. Boot the HTTP server
+3. Boot the HTTP server by running
 
 ````
+npm start
+OR
 npm run server
 ````
 
